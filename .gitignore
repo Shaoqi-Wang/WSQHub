@@ -3,7 +3,13 @@ __pycache__/
 .idea/
 *.py[cod]
 *py.class
-
+*ckpt
+checkpoint/
+checkpoints/
+results/
+result/
+outputs/
+output/
 # C extensions
 *.so
 
