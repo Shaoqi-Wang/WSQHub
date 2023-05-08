@@ -1,0 +1,5 @@
+# @package _global_
+defaults:
+  - testyaml: t2
+  - t1dir: nnn
+d: 100

@@ -1,0 +1,7 @@
+defaults:
+  - base
+  - override layer: s4attention
+
+transposed: false # Actually faster than "true"
+tie_dropout: true
+ssfeedback: true
